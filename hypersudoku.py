@@ -292,4 +292,4 @@ def solve(filename, outputFile):
     output.close()
     
 #call the function
-solve("Input3.txt", "Output3.txt")
+#i.e. solve("Input1.txt", "Output1.txt")
